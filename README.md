@@ -13,7 +13,7 @@
 🏆 Competitive Programming Enthusiast in my free time<br>
 🔍 Always curious to understand complex technologies behind the scenes
 
-![](https://komarev.com/ghpvc/?username=Mohammed-BENHAMMOUTE&color=447ff7&label=Visitor+count)
+![](https://komarev.com/ghpvc/?username=mbarkioumed&color=447ff7&label=Visitor+count)
 
 # 💻 Tech Stack:
 
